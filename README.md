@@ -14,6 +14,7 @@ NDonatti@github
 📚 Learning about Deep Learning & Machine Learning
 🚩 Interested in Full Stack Development
 🦇 Fun fact: I'm Batman
+📮 Reach me via n@donatti.co
 ```
 
 ---
