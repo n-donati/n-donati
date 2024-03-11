@@ -13,8 +13,8 @@ NDonatti@github
 💻 I am currently studying @ Tu Delft
 📚 Learning about Deep Learning & Machine Learning
 🚩 Interested in Full Stack Development
-🦇 Fun fact: I'm Batman
 📮 Reach me via n@donatti.co
+🦇 Fun fact: I'm Batman
 ```
 
 ---
