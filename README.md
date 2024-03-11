@@ -1,4 +1,4 @@
-<h1 align="center"> Welcome, my name is Nicolas Donati <img src="https://media.tenor.com/EM8nFD0MmrgAAAAi/power-brick-lego-brick.gif" width="30px" height='30px'> </h1>
+<h1 align="center"> Hello there, my name is Nicolas Donati <img src="https://media.tenor.com/EM8nFD0MmrgAAAAi/power-brick-lego-brick.gif" width="30px" height='30px'> </h1>
 
 <h3 align="left"> 
 
