@@ -7,7 +7,7 @@
 ```
 NDonatti@github
 -------------------------
-💻 I'm currently studying @ Tu Delft
+💻 I am currently studying @ Tu Delft
 📚 Learning about Deep Learning & Machine Learning
 🚩 Interested in Full Stack Development
 🦇 Fun fact: I'm Batman
