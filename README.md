@@ -1,8 +1,11 @@
-<h1 align="center"> <img src="https://media.tenor.com/L__nlJlxIAgAAAAi/golden-gold.gif" width="30px" height='30px'> Welcome, my name is Nicolas Donati <img src="https://media.tenor.com/L__nlJlxIAgAAAAi/golden-gold.gif" width="30px" height='30px'> </h1>
+<h1 align="center"> Welcome, my name is Nicolas Donati <img src="https://media.tenor.com/EM8nFD0MmrgAAAAi/power-brick-lego-brick.gif" width="30px" height='30px'> </h1>
 
 <h3 align="left"> 
-  
-  🌐 Founder of [Donatti.Co](https://donatti.co) </h3>
+
+  🌐 Founder of [Donatti.Co](https://donatti.co) 
+
+</h3> <br/>
+<img align="left" src="https://media.tenor.com/dh3Ww0n7gkcAAAAi/lego-part.gif" alt="Lego Batman" width="160" />
 
 ```
 NDonatti@github
@@ -12,6 +15,7 @@ NDonatti@github
 🚩 Interested in Full Stack Development
 🦇 Fun fact: I'm Batman
 ```
+
 ---
 
 <h3 align="left">📋 Languages:</h3>
@@ -69,8 +73,9 @@ If you have any questions, feel free to contact me through:
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jWQ6cKVGGw)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-donati/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n@donatti.co)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NDonatti)
-
-
+  
+  </td>
   </tr>
 </table>
+
+<!-- [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NDonatti) -->
