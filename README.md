@@ -7,10 +7,10 @@
 ```
 NDonatti@github
 -------------------------
-💻 I am currently studying @ Tu Delft
-📚 Learning about Deep Learning and Machine Learning
-🚩 Interested in Full Stack development
-🦇 Fun fact: I'm Batman!
+💻 I'm currently studying @ Tu Delft
+📚 Learning about Deep Learning & Machine Learning
+🚩 Interested in Full Stack Development
+🦇 Fun fact: I'm Batman
 ```
 ---
 
