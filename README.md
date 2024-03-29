@@ -1,10 +1,14 @@
 <h1 align="center"> Hello there, my name is Nicolas Donati <img src="https://media.tenor.com/EM8nFD0MmrgAAAAi/power-brick-lego-brick.gif" width="30px" height='30px'> </h1>
 
 <h3 align="left"> 
-  🌐 [NDonatti.me](https://ndonatti.me) 
+  
+  🦇 Check out my [BAT-PORTFOLIO](https://ndonatti.me) 
+  
   🌐 Founder of [Donatti.Co](https://donatti.co) 
 
-</h3> <br/>
+---
+
+</h3>
 <img align="left" src="https://media.tenor.com/0hOZktOyvV0AAAAi/lego-lego-toolkit.gif" alt="Lego Batman" width="160" />
 
 ```
