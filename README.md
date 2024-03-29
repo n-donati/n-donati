@@ -44,7 +44,7 @@ NDonatti@github
 ---
 
 </p>
-
+  ![Snake animation](https://raw.githubusercontent.com/NDonatti/NDonatti/output/github-contribution-grid-snake-dark.svg)
 </p>
 
 ---
