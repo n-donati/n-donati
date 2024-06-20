@@ -14,7 +14,7 @@
 ```
 NDonatti@github
 -------------------------
-💻 I am currently studying Computer Science and Engineering @ Tu Delft
+💻 I am currently studying Computer Science and Engineering @ ITESM
 🧠 Learning about Deep Learning & Machine Learning
 🚩 Interested in Full Stack Development
 📮 Reach me via n@donatti.co
