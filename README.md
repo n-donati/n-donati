@@ -4,7 +4,7 @@
   
   🦇 Check out my [BAT-PORTFOLIO](https://ndonatti.me) 
   
-  🌐 Founder of [Donatti.Co](https://donatti.co) 
+  🌐 Founder of [Donatti Co.](https://donatti.co) 
 
 ---
 
