@@ -6,8 +6,6 @@
   
   🌐 Founder of [Donatti Co.](https://donatti.co) 
 
----
-
 </h3>
 <img align="left" src="https://media.tenor.com/0hOZktOyvV0AAAAi/lego-lego-toolkit.gif" alt="Lego Batman" width="160" />
 
@@ -20,8 +18,6 @@ NDonatti@github
 📮 Reach me via n@donatti.co
 🦇 Fun fact: I'm Batman
 ```
-
----
 
 <h3 align="left">📋 Languages:</h3>
 <p align="left">
