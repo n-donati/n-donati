@@ -6,6 +6,8 @@
   
   🌐 Founder of [Donatti Co.](https://donatti.co) 
 
+  ---
+
 </h3>
 <img align="left" src="https://media.tenor.com/0hOZktOyvV0AAAAi/lego-lego-toolkit.gif" alt="Lego Batman" width="160" />
 
